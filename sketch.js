@@ -98,20 +98,20 @@ function draw() {
         // jewelryG.destroy();
         // swordGroup.destroy();
         
-        // cashG.destroyEach();
-        // diamondsG.destroyEach();
-        // jewelryG.destroyEach();
-        // swordGroup.destroyEach();
+        cashG.destroyEach();
+        diamondsG.destroyEach();
+        jewelryG.destroyEach();
+        swordGroup.destroyEach();
         
-        // cashGdestroyEach();
-        // diamondsGdestroyEach();
-        // jewelryGdestroyEach();
-        // swordGroupdestroyEach();
+        //cashGdestroyEach();
+        //diamondsGdestroyEach();
+        //jewelryGdestroyEach();
+        //swordGroupdestroyEach();
         
-        cashG.setVelocityYEach(0);
-        diamondsG.setVelocityYEach(0);
-        jewelryG.setVelocityYEach(0);
-        swordGroup.setVelocityYEach(0);
+        //cashG.setVelocityYEach(0);
+        //diamondsG.setVelocityYEach(0);
+        //jewelryG.setVelocityYEach(0);
+        //swordGroup.setVelocityYEach(0);
      
     }
   }
